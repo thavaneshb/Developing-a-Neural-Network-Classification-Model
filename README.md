@@ -47,9 +47,9 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM
 
-### Name: SUDHAARSAN S
+### Name: THAVANESH B
 
-### Register Number: 212224040334
+### Register Number: 212224040352
 
 ```python
 from google.colab import drive
